@@ -5,3 +5,5 @@ get two jsons, and one will have the friends removed obviously then wait i forgo
 okay so on line 24 on removed_objects = get_removed_objects('friendsList.json', 'friendsList copy.json') just paste your two jsons into the same folder as the Main.py and then make sure that it matches or something idk how to english
 
 then just run lol it should show who unadded you lmao xd
+
+too much trouble? unforunately fb doesn't have an api for the friend list xdddddddddddd
